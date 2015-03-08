@@ -1,40 +1,40 @@
 # Blender MTL File: 'None'
 # Material Count: 4
 
-newmtl Woodenhandle.008
-Ns 92.156863
+newmtl Material.001
+Ns 96.078431
 Ka 0.000000 0.000000 0.000000
-Kd 0.512000 0.512000 0.512000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/rxr/Downloads/kitchen/textures/counter-top.jpg
+
+newmtl Woodenhandle.000
+Ns 86.274510
+Ka 0.000000 0.000000 0.000000
+Kd 0.327680 0.327680 0.327680
 Ks 0.500000 0.500000 0.500000
 Ni 1.000000
 d 1.000000
 illum 2
 
-newmtl brass.008
-Ns 92.156863
+newmtl brass.000
+Ns 86.274510
 Ka 0.000000 0.000000 0.000000
-Kd 0.512000 0.512000 0.512000
+Kd 0.327680 0.327680 0.327680
 Ks 0.500000 0.500000 0.500000
 Ni 1.000000
 d 1.000000
 illum 2
 
-newmtl marble2.004
-Ns 92.156863
+newmtl wood.000
+Ns 86.274510
 Ka 0.000000 0.000000 0.000000
-Kd 0.512000 0.512000 0.512000
+Kd 0.327680 0.327680 0.327680
 Ks 0.500000 0.500000 0.500000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /home/rxr/Downloads/kitchen/7e40b0d9-2576-4f18-9cf9-93bb835d6df5_1000.jpg
-
-newmtl wood.011
-Ns 92.156863
-Ka 0.000000 0.000000 0.000000
-Kd 0.512000 0.512000 0.512000
-Ks 0.500000 0.500000 0.500000
-Ni 1.000000
-d 1.000000
-illum 2
-map_Kd /home/rxr/Downloads/kitchen/OakCabDoor_seamless_L.jpg
+map_Kd /home/rxr/Downloads/kitchen/textures/OakCabDoor_seamless_L.jpg
